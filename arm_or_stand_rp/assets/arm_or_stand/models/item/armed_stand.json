@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "arm_or_stand:item/armed_stand"
+    }
+  }
+  

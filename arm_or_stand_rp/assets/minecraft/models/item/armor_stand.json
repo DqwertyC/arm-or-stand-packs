@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "overrides": [
+    {
+      "model": "arm_or_stand:item/armed_stand",
+      "predicate": {
+        "trim_type": 0.001
+      }
+    }
+  ],
+  "textures": {
+    "layer0": "minecraft:item/armor_stand"
+  }
+}

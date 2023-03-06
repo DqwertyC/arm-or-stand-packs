@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_trim",
+  "addition": {
+    "item": "minecraft:stick"
+  },
+  "base": {
+    "item": "minecraft:armor_stand"
+  },
+  "template": {
+    "item": "minecraft:stick"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "arm_or_stand:armed",
+  "description": {
+    "text": "Left Arm"
+  },
+  "template_item": "minecraft:stick"
+}

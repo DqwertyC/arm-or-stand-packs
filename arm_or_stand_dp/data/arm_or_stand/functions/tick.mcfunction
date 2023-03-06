@@ -1,0 +1,1 @@
+execute as @a[nbt={SelectedItem:{tag:{Trim:{pattern:"arm_or_stand:armed"}}}},nbt=!{SelectedItem:{tag:{EntityTag:{ShowArms:1b}}}}] run item modify entity @s weapon.mainhand arm_or_stand:add_arms
